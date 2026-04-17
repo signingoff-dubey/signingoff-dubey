@@ -2,6 +2,8 @@
 
 CS Engineering student @ RV University, Bangalore — building things that actually work.  
 
+Open to collaborating on **AI/ML** and **Cybersecurity** projects — reach out anytime.
+ 
 
 ---
 
@@ -35,23 +37,31 @@ CS Engineering student @ RV University, Bangalore — building things that actua
 
 ---
 
-## 📊 GitHub Stats:
-![](https://github-readme-stats-sigma-five.vercel.app/api?username=signingoff-dubey&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=signingoff-dubey&theme=gruvbox&hide_border=false)<br/>
-![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=signingoff-dubey&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+## 📈 Contribution Activity
 
-## 🏆 GitHub Trophies:
-![](https://github-profile-trophy.vercel.app/?username=signingoff-dubey&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4)
+[![Kabir's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=signingoff-dubey&theme=github-compact&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+## 🃏 GitHub Summary
+
+<a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=signingoff-dubey&theme=github_dark" />
+</a>
+
+<p align="left">
+  <img width="32.5%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=signingoff-dubey&theme=github_dark" />
+  <img width="32.5%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=signingoff-dubey&theme=github_dark" />
+  <img width="32.5%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=signingoff-dubey&theme=github_dark" />
+</p>
+
+---
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
+ 
+![Profile Views](https://komarev.com/ghpvc/?username=signingoff-dubey&label=Profile%20Views&color=brightgreen&style=flat&base=171)
+ 
 
-### 🐍 Contribution Snake:
-![snake gif](https://github.com/signingoff-dubey/signingoff-dubey/blob/output/github-contribution-grid-snake.gif)
-
----
-[![](https://visitcount.itsvg.in/api?id=signingoff-dubey&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
