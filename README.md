@@ -1,8 +1,10 @@
-# 👋 Hey, I'm Kabir Aryan Dubey
+# 👋 Hey, I'm Aryan Dubey a.k.a. Kabir
 
 CS Engineering student @ RV University, Bangalore — building things that actually work.  
 
 Open to collaborating on **AI/ML** and **Cybersecurity** projects — reach out anytime.
+
+Currently building apps for **Hearthborn Studios** - https://hearthbornstudios.com 
  
 
 ---
